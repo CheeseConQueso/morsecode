@@ -5,7 +5,9 @@ morse-code-to-midi
 
 2014-04-12
 
-kenparisi@gmail.com
+http://www.10surfroad.com/morse/  
+
+(works as of 2014-04-12)
 
 =========
 
