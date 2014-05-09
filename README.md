@@ -5,7 +5,7 @@ morse-code-to-midi
 
 2014-04-12
 
-http://www.10surfroad.com/morse/  
+http://www.10surfroad.com/morsecode/  
 
 (works as of 2014-04-12)
 
